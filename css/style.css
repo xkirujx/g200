@@ -1,5 +1,12 @@
 /* style */
 
+
+h2 {
+    color: red;
+    font-size: 40px;
+    text-align: center;
+}
+
 p {
     background-color: lightgoldenrodyellow;
 }
